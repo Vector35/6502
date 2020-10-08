@@ -1,14 +1,44 @@
-# 6502 Binary Ninja Plugin
-Author: Vector35 Inc
+# 6502 Architecture Plugin (v1.0.3)
+Author: **Vector 35 Inc**
 
-This is an architecture plugin for [6502](https://en.wikipedia.org/wiki/MOS_Technology_6502) and binary view for NES roms.
+_An architecture plugin for 6502 and binary view for NES roms._
 
-![](./media/nes.png)
+## Description:
+
+An architecture plugin for the <a href='https://en.wikipedia.org/wiki/MOS_Technology_6502'>6502</a> processsor and a binary view for NES roms. <img src='https://raw.githubusercontent.com/Vector35/6502/master/media/nes.png'>
+
+
+## Installation Instructions
+
+### Darwin
+
+no special instructions, package manager is recommended
+
+### Linux
+
+no special instructions, package manager is recommended
+
+### Windows
+
+no special instructions, package manager is recommended
+
+## Minimum Version
+
+This plugin requires the following minimum version of Binary Ninja:
+
+* 1200
+
+
 
 ## Required Dependencies
 
-There are no external dependencies for this plugin.
+The following dependencies are required for this plugin:
+
+
 
 ## License
 
-This plugin is released under a [MIT](https://github.com/Vector35/snippets/blob/master/LICENSE) license.
+This plugin is released under a MIT license.
+## Metadata Version
+
+2
