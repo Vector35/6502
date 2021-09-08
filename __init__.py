@@ -31,10 +31,6 @@ from binaryninja.log import log_error
 from binaryninja.enums import (BranchType, InstructionTextTokenType,
 							LowLevelILOperation, LowLevelILFlagCondition, FlagRole, SegmentFlag, SymbolType)
 
-# 2-3 compatibility
-from binaryninja import range
-
-
 InstructionNames = [
 	"brk", "ora", None, None, None, "ora", "asl", None,  # 0x00
 	"php", "ora", "asl@", None, None, "ora", "asl", None,  # 0x08
