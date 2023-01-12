@@ -1,4 +1,4 @@
-# 6502 Architecture Plugin (v1.0.4)
+# 6502 Architecture Plugin (v2.0.0)
 Author: **Vector 35 Inc**
 
 _An architecture plugin for 6502 and binary view for NES roms._
