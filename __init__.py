@@ -708,7 +708,7 @@ class NESView(BinaryView):
 		return True
 
 	def perform_get_address_size(self) -> int:
-		return self.address_size
+		return self.arch.address_size
 
 	def perform_get_entry_point(self) -> int:
 		return struct.unpack("<H", self.read(0xfffc, 2))[0]
