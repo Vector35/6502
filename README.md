@@ -6,7 +6,7 @@ _An architecture plugin for 6502 and binary view for NES roms._
 ## Description:
 
 An architecture plugin for the <a href='https://en.wikipedia.org/wiki/MOS_Technology_6502'>6502</a> processsor and a binary view for NES roms. 
-![](https://github.com/Vector35/6502/blob/master/media/nes.png?raw=true)
+![](https://raw.githubusercontent.com/Vector35/6502/refs/heads/master/media/nes.png)
 
 
 ## Installation Instructions
